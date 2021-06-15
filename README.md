@@ -2,8 +2,8 @@
 > This is a walkthrough on how to use the Sainsmart CNC Mill in Mr. Yip's classroom. This will include all of the necessary files and instructions to operate the mill and start generating your own GCode.
 *There are two ways of operating the CNC and both are covered below
 ## Table of Contents
-* [Operating with Computer](#operating-with-computer)
-* [Offline Controller](#offline-controller)
+* [Computer Operation](#operating-with-computer)
+* [Offline Controller Operation](#offline-controller-operation)
 * [](#)
 * [](#)
 * [](#)
@@ -11,7 +11,7 @@
 * [](#)
 * [](#)
 
-# Operating with Computer
+## Operating with Computer
 > This will walk you throught the setup on a computer to start CNC milling!
 ### Downloads
 1. Download the [Sainsmart Original Documentation & Files](https://docs.sainsmart.com/article/7c20d7zaw3-how-to-install-candle-grblcontrol-for-windows)
@@ -49,9 +49,9 @@
 
 ![Navigation](./img/navigate.png)
 
-Step = how far the mill moves (for small movements use 1-10)
+> Step = how far the mill moves (for small movements use 1-10)
 
-Feed = how fast the mill moves (1000 is fine)
+> Feed = how fast the mill moves (1000 is fine)
 
 ![Step and Feed Rate](./img/stepandfeed.png)
 
@@ -61,15 +61,35 @@ Feed = how fast the mill moves (1000 is fine)
 
 5. You can now press `send` on the bottom of the window to start the milling process
 
-*Do not be afraid to press pause or abort because you think there is something wrong*
+> *Do not be afraid to press pause or abort because you think there is something wrong*
 
 6. Odds are you probably need to change the feed rate or the spindle speed of the mill after your initial run...
 To do this, you will want to click on the GCode where you see either `F###` or `S###`;
 
-F = Feed Rate
+> F = Feed Rate
 
-S = Spindle Speed
+> S = Spindle Speed
 
-Simply change the numbers after the corresponding letter to adjust the speeds and resend the GCode
+> Simply change the numbers after the corresponding letter to adjust the speeds and resend the GCode
 
 6. Once you are happy with the settings then let the mill do its thing!
+
+
+## Offline Controller Operation
+> Using the offline controller is a lot easier than using the computer, but does not allow for as much flexibility when it comes to testing GCode and adjusting values
+
+### Importing GCode
+To import GCode to the offline controller, either use the USB cable connected to the controller and the computer to drag over the files, or take out the SD card in the offline controller and put the files on that
+
+### Milling
+1. Plug the offline controller into the CNC using the included ribbon cable and then power on the mill
+2. On the offline controller, click control and there you can position the CNC to the starting home position
+
+![Offline Controller](./img/offlinecontroller.jpg)
+
+> To change the step size, press the Exit/Step button
+To exit the control interface, press and hold the Exit/Step button
+
+3. Navigate to the File page and there you can select the GCode that you want to mill from
+4. Press OK on the file that you want to mill and then press OK one more time
+5. You should be milling!
