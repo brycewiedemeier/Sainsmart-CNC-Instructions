@@ -33,3 +33,4 @@
 *There is some test GCode in `CD > 3018-PROVer Tutorial_Software_Driver > Gcode` that you can try*
 2. Now insert a drill bit into the chuck of the mill making sure that it is tightly secured with the included wrenches
 3. You will now want to line up the bit to where you would like the GCode to start using the on screen buttons
+*When aligning the drill bit, you will want to put the bit touching the work surface*
