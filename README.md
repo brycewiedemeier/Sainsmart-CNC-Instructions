@@ -5,11 +5,7 @@
 * [Computer Operation](#operating-with-computer)
 * [Offline Controller Operation](#offline-controller-operation)
 * [Making Your Own GCode](#making-your-own-gcode)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+
 
 ## Operating with Computer
 > This will walk you throught the setup on a computer to start CNC milling!
