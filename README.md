@@ -4,7 +4,7 @@
 ## Table of Contents
 * [Computer Operation](#operating-with-computer)
 * [Offline Controller Operation](#offline-controller-operation)
-* [](#)
+* [Making Your Own GCode](#making-your-own-gcode)
 * [](#)
 * [](#)
 * [](#)
@@ -93,3 +93,5 @@ To exit the control interface, press and hold the Exit/Step button
 3. Navigate to the File page and there you can select the GCode that you want to mill from
 4. Press OK on the file that you want to mill and then press OK one more time
 5. You should be milling!
+
+## Making Your Own GCode
