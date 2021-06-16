@@ -18,7 +18,7 @@
 
 ![Drivers](./img/DriverInstall.png)
 
-4. Close the window and navigate to `CD > 3018-PROVer Tutorial_Software_Driver > Grblcontrol(Candle_1.1.7)`; run the `Grblcontrol` (Candle).exe* file
+4. Close the window and navigate to `CD > 3018-PROVer Tutorial_Software_Driver > Grblcontrol(Candle_1.1.7)`; run the `Grblcontrol (Candle).exe` file
 5. Boom you now have everything you need to start the CNC mill!
 
 ### Starting the CNC Mill
