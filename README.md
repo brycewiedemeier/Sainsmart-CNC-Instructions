@@ -110,7 +110,7 @@ We ended up using [Easel](https://www.inventables.com/technologies/easel) to mak
 Just make an account and once you are in you can start toying around with your own designs. If you do end up using easel, you will have to download easel drivers so that you can use the CNC straight from their program instead of Candle.
 
 ### Fusion 360
-Unfortunately we never used this one, but it was something that we were looking at while playing with the mill.
+We didn't get much of a chance to play around with Fusion, but it was something that we were looking at while setting up and using the mill.
 
 If this is on a personal computer, you will want to download an educational lisence of Fusion 360, and make sure that you download the CAM package with it. Once in Fusion, you can start playing around with creating your own designs and starting to mill 3D objects. As stated before, we didn't really have enought time to explore this, so you will have to toy with it to learn how to use it or find your own resources elsewhere online.
 
