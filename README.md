@@ -1,6 +1,6 @@
 # Sainsmart-CNC-Instructions
 > This is a walkthrough on how to use the Sainsmart CNC Mill in Mr. Yip's classroom. This will include all of the necessary files and instructions to operate the mill and start generating your own GCode.
-*There are two ways of operating the CNC and both are covered below
+
 ## Table of Contents
 * [Computer Operation](#operating-with-computer)
 * [Offline Controller Operation](#offline-controller-operation)
