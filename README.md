@@ -14,11 +14,11 @@
 ### Downloads
 1. Download the [Sainsmart Original Documentation & Files](https://docs.sainsmart.com/article/7c20d7zaw3-how-to-install-candle-grblcontrol-for-windows)
 2. Extract the CD.zip file with an extraction tool such as [WinZip](https://www.winzip.com/win/en/) or [7-Zip](https://www.7-zip.org/)
-3. Open the extracted CD folder and navigate to `CD > 3018-PROVer Tutorial_Software_Driver > Driver` and run the *Driver_CH340SER.EXE* to install the drivers:
+3. Open the extracted CD folder and navigate to `CD > 3018-PROVer Tutorial_Software_Driver > Driver` and run the `Driver_CH340SER.EXE` to install the drivers:
 
 ![Drivers](./img/DriverInstall.png)
 
-4. Close the window and navigate to `CD > 3018-PROVer Tutorial_Software_Driver > Grblcontrol(Candle_1.1.7)`; run the *Grblcontrol (Candle).exe* file
+4. Close the window and navigate to `CD > 3018-PROVer Tutorial_Software_Driver > Grblcontrol(Candle_1.1.7)`; run the `Grblcontrol` (Candle).exe* file
 5. Boom you now have everything you need to start the CNC mill!
 
 ### Starting the CNC Mill
