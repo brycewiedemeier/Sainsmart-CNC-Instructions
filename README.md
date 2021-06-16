@@ -66,6 +66,8 @@
 6. Odds are you probably need to change the feed rate or the spindle speed of the mill after your initial run...
 To do this, you will want to click on the GCode where you see either `F###` or `S###`;
 
+![GCode](./img/gcode.png)
+
 > F = Feed Rate
 
 > S = Spindle Speed
